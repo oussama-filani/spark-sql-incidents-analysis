@@ -1,0 +1,51 @@
+Id,titre,description,service,date
+48634,"Erreur interface","Défaillance du système de refroidissement sur la ligne principale","Maintenance",2025-04-07
+61775,"Arrêt machine","Panne réseau ayant interrompu les communications entre les systèmes","Logistique",2025-01-07
+80356,"Défaut calibrage","Capteur de température défaillant donnant des mesures erronées","R&D",2025-03-10
+76099,"Problème refroidissement","Coupure d'alimentation électrique due à un problème sur le réseau externe","Production",2025-05-21
+31893,"Arrêt machine","Fuite importante dans le circuit hydraulique principal nécessitant une intervention urgente","R&D",2025-01-18
+74302,"Erreur interface","Coupure d'alimentation électrique due à un problème sur le réseau externe","R&D",2025-05-23
+53038,"Défaut produit","Fuite importante dans le circuit hydraulique principal nécessitant une intervention urgente","Production",2024-12-09
+51395,"Rupture stock","Fuite importante dans le circuit hydraulique principal nécessitant une intervention urgente","Logistique",2025-04-02
+49686,"Défaut calibrage","Machine arrêtée suite à une erreur de paramétrage au démarrage","Achats",2025-05-15
+32873,"Panne ventilation","Capteur de température défaillant donnant des mesures erronées","Qualité",2025-05-02
+88943,"Arrêt machine","Équipement mal calibré produisant des pièces hors tolérance","Production",2025-05-25
+47673,"Surcharge système","Rupture de stock de matières premières bloquant la production","Achats",2025-05-19
+70002,"Fuite hydraulique","Coupure électrique subite ayant causé l'arrêt total de la ligne de production","Export",2025-05-01
+36063,"Surchauffe moteur","Équipement mal calibré produisant des pièces hors tolérance","Export",2025-04-06
+63900,"Panne électrique","Bug logiciel empêchant l'enregistrement correct des données de production","Maintenance",2025-03-28
+91770,"Arrêt machine","Surchauffe détectée sur le moteur principal de la chaîne d'assemblage","Maintenance",2025-01-02
+51848,"Défaut calibrage","Panne réseau ayant interrompu les communications entre les systèmes","Logistique",2025-05-06
+82390,"Défaut produit","Surchauffe détectée sur le moteur principal de la chaîne d'assemblage","Logistique",2025-01-05
+25459,"Panne réseau","Surcharge détectée sur le système principal durant les heures de pointe","Production",2025-05-19
+49665,"Surcharge système","Coupure électrique subite ayant causé l'arrêt total de la ligne de production","Export",2025-03-27
+38215,"Surcharge système","Surchauffe détectée sur le moteur principal de la chaîne d'assemblage","Informatique",2024-12-18
+91525,"Surcharge système","Bug logiciel empêchant l'enregistrement correct des données de production","R&D",2025-01-02
+25986,"Erreur interface","Rupture de stock de matières premières bloquant la production","Qualité",2025-03-10
+34310,"Défaillance capteur","Bug logiciel empêchant l'enregistrement correct des données de production","Achats",2025-01-12
+67290,"Panne ventilation","Capteur de température défaillant donnant des mesures erronées","Achats",2024-12-08
+42343,"Défaut produit","Système de ventilation en panne causant une augmentation de la température ambiante","Informatique",2025-01-08
+37935,"Défaillance capteur","Équipement mal calibré produisant des pièces hors tolérance","Maintenance",2024-12-11
+77913,"Surchauffe moteur","Défaillance du système de refroidissement sur la ligne principale","Logistique",2025-01-26
+14296,"Fuite hydraulique","Capteur de température défaillant donnant des mesures erronées","Logistique",2025-04-13
+28093,"Problème refroidissement","Coupure électrique subite ayant causé l'arrêt total de la ligne de production","Informatique",2025-01-06
+88135,"Arrêt machine","Panne réseau ayant interrompu les communications entre les systèmes","Achats",2025-03-14
+59610,"Erreur interface","Défaillance du système de refroidissement sur la ligne principale","Qualité",2025-02-27
+73799,"Panne réseau","Système de ventilation en panne causant une augmentation de la température ambiante","HSE",2025-01-11
+33170,"Surcharge système","Bug logiciel empêchant l'enregistrement correct des données de production","Qualité",2025-02-22
+78989,"Coupure alimentation","Panne réseau ayant interrompu les communications entre les systèmes","Informatique",2025-03-18
+60745,"Coupure alimentation","Machine arrêtée suite à une erreur de paramétrage au démarrage","Administration",2025-02-27
+50126,"Erreur interface","Série de produits présentant des défauts de finition non conformes aux standards","HSE",2025-02-05
+25368,"Surcharge système","Capteur de température défaillant donnant des mesures erronées","Administration",2024-12-27
+42175,"Problème refroidissement","Fuite importante dans le circuit hydraulique principal nécessitant une intervention urgente","HSE",2025-04-22
+60689,"Erreur logiciel","Surcharge détectée sur le système principal durant les heures de pointe","Qualité",2025-01-20
+23045,"Défaut calibrage","Coupure électrique subite ayant causé l'arrêt total de la ligne de production","R&D",2025-04-14
+41342,"Surchauffe moteur","Rupture de stock de matières premières bloquant la production","Export",2024-12-26
+96862,"Surcharge système","Surchauffe détectée sur le moteur principal de la chaîne d'assemblage","Informatique",2025-02-21
+21361,"Erreur interface","Coupure d'alimentation électrique due à un problème sur le réseau externe","Export",2024-12-25
+77685,"Panne ventilation","Machine arrêtée suite à une erreur de paramétrage au démarrage","Production",2025-04-18
+45525,"Problème refroidissement","Série de produits présentant des défauts de finition non conformes aux standards","Logistique",2025-03-02
+82685,"Erreur logiciel","Défaillance du système de refroidissement sur la ligne principale","Logistique",2025-05-12
+81060,"Erreur interface","Série de produits présentant des défauts de finition non conformes aux standards","HSE",2025-02-12
+80773,"Surchauffe moteur","Surchauffe détectée sur le moteur principal de la chaîne d'assemblage","Export",2025-02-14
+51996,"Défaillance capteur","Panne réseau ayant interrompu les communications entre les systèmes","Qualité",2024-12-26
